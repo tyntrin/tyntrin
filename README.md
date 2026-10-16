@@ -86,15 +86,43 @@ Rebuilt a legacy .NET web portal (Inventory, Purchasing) from scratch with redes
 
 ## Indie Games
 
+Solo-developed in Unity (C#). Game design, art, and code by me.
+
 <table width="100%">
 <tr>
 <td valign="top">
 
-**Mobile Party Games** (Unity, C#)<br/>
-Solo-developed party games where players use their phones as controllers over LAN, using gyro, haptics, and mic. Game design, art, and code by me.
+**AnA** · Party Board Game<br/>
+A 2–4 player board game set in a tiny world inside a school backpack. A shared main screen shows the board while each player's phone becomes the controller over LAN, using shake, gyro, haptics, and mic.
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS%20(Main%20Screen)-555555?style=flat&logo=apple&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Development-F5A623?style=flat)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Z&Z** · Narrative Horror Party Game<br/>
+An episodic choose-your-path horror story for 2–4 friends. The main screen plays the story like an anime, while each player's phone is their character, used for choices, quick-time moments, and private secrets.
+
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS%20(Main%20Screen)-555555?style=flat&logo=apple&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Testing-F5A623?style=flat)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**SecretCard** · Party Card Game<br/>
+A Thai/English party card game with three mini-games, featuring 3D flippable cards and animated characters.
+
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Development-F5A623?style=flat)
 
 </td>
 </tr>
