@@ -84,29 +84,6 @@ Rebuilt a legacy .NET web portal (Inventory, Purchasing) from scratch with redes
 
 <sub>Work projects are proprietary, so their source code isn't public.</sub>
 
-## Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Virtual Office — AI Assistant**<br/>
-AI assistant that automates internal virtual-office workflows.
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Visual-Office-Ai-Assistant)
-
-</td>
-<td width="50%" valign="top">
-
-**AI Agent — Business Intelligence**<br/>
-AI chat agent that turns raw Odoo business data into BI visualizations.
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Odoo-AI-Analyst)
-
-</td>
-</tr>
-</table>
-
 ## Indie Games
 
 <table width="100%">
