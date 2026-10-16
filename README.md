@@ -36,9 +36,6 @@ Hi, I'm Trin Rattanasiri, a Software Engineering graduate from Mae Fah Luang Uni
 **IT Business Coordinator** · Rocks Group Co., Ltd. · *Aug 2026 – Present*<br/>
 Building AI-powered internal systems and automation that cut manual IT work, integrated with Dynamics 365.
 
-**Mobile Game Developer (Freelance)** · InZolvation Co., Ltd. · *Sep 2026 – Present*<br/>
-Solo-developing mobile party games in Unity, from game design and art to code.
-
 **AI Engineer** · Basic Solution Co., Ltd. · *Apr 2026 – Jul 2026*<br/>
 Designed and pitched AI products to enterprise clients, including an AI LINE chatbot integrated with Odoo ERP.
 
