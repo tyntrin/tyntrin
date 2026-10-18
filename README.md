@@ -2,7 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=8A63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Trin+Rattanasiri;AI+Product+Engineer;Agentic+AI+%7C+Full-Stack+%7C+ERP+Integration" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=tyntrin&label=Profile%20Views&color=8A63FF&style=flat)
 
 </div>
 
