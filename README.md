@@ -118,7 +118,7 @@ Vendor-first requests verified against live ERP prices, routed through departmen
 
 <sub>Work projects are proprietary, so their source code isn't public.</sub>
 
-## Indie Games
+## Game Projects
 
 Solo-developed in Unity (C#). Game design, art, and code by me.
 
