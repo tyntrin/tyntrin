@@ -31,6 +31,29 @@ Hi, I'm Trin Rattanasiri, a Software Engineering graduate from Mae Fah Luang Uni
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
+## Certifications
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Introduction to Model Context Protocol**<br/>
+Anthropic · Jul 2026
+
+[![View Credential](https://img.shields.io/badge/View%20Credential-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/ouvd3t6d46me)
+
+</td>
+<td width="50%" valign="top">
+
+**Introduction to Subagents**<br/>
+Anthropic · Jul 2026
+
+[![View Credential](https://img.shields.io/badge/View%20Credential-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/cmrznyf7kz8r)
+
+</td>
+</tr>
+</table>
+
 ## Experience
 
 **IT Business Coordinator** · Rocks Group Co., Ltd. · *Aug 2026 – Present*<br/>
