@@ -37,18 +37,18 @@ Hi, I'm Trin Rattanasiri, a Software Engineering graduate from Mae Fah Luang Uni
 <tr>
 <td width="50%" valign="top">
 
-[![View Credential](https://img.shields.io/badge/View%20Credential-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/ouvd3t6d46me)
-
-**Introduction to Model Context Protocol**<br/>
+**Introduction to<br/>Model Context Protocol**<br/>
 Anthropic · Jul 2026
+
+[![View Credential](https://img.shields.io/badge/View%20Credential-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/ouvd3t6d46me)
 
 </td>
 <td width="50%" valign="top">
 
-[![View Credential](https://img.shields.io/badge/View%20Credential-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/cmrznyf7kz8r)
-
-**Introduction to Subagents**<br/>
+**Introduction to<br/>Subagents**<br/>
 Anthropic · Jul 2026
+
+[![View Credential](https://img.shields.io/badge/View%20Credential-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/cmrznyf7kz8r)
 
 </td>
 </tr>
