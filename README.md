@@ -126,8 +126,25 @@ Solo-developed in Unity (C#). Game design, art, and code by me.
 <tr>
 <td valign="top">
 
+**SecretCard** · Party Card Game<br/>
+A Thai/English party card game with three mini-games, featuring 3D flippable cards, animated characters and a dare slot machine.
+
+<img src="https://raw.githubusercontent.com/tyntrin/tyntrin/main/media/secretcard-flip.gif" width="240" alt="SecretCard card flip" />
+<img src="https://raw.githubusercontent.com/tyntrin/tyntrin/main/media/secretcard-slot.gif" width="240" alt="SecretCard dare slots" />
+
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Coming%20to%20App%20Store-2EA44F?style=flat)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 **AnA** · Party Board Game<br/>
 A 2–4 player board game set in a tiny world inside a school backpack. A shared main screen shows the board while each player's phone becomes the controller over LAN, using shake, gyro, haptics, and mic.
+
+<img src="https://raw.githubusercontent.com/tyntrin/tyntrin/main/media/ana-main-screen.gif" width="480" alt="AnA main screen" />
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
@@ -144,18 +161,6 @@ An episodic choose-your-path horror story for 2–4 friends. The main screen pla
 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS%20(Main%20Screen)-555555?style=flat&logo=apple&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Testing-F5A623?style=flat)
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**SecretCard** · Party Card Game<br/>
-A Thai/English party card game with three mini-games, featuring 3D flippable cards and animated characters.
-
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Development-F5A623?style=flat)
 
 </td>
