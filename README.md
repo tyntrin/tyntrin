@@ -159,6 +159,8 @@ A 2–4 player board game set in a tiny world inside a school backpack. A shared
 **Z&Z** · Narrative Horror Party Game<br/>
 An episodic choose-your-path horror story for 2–4 friends. The main screen plays the story like an anime, while each player's phone is their character, used for choices, quick-time moments, and private secrets.
 
+<img src="https://raw.githubusercontent.com/tyntrin/tyntrin/main/media/znz-live.gif" width="480" alt="Z&Z live stream scene" />
+
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS%20(Main%20Screen)-555555?style=flat&logo=apple&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Development-F5A623?style=flat)
