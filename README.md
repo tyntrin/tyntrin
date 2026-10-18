@@ -68,39 +68,62 @@ Designed and pitched AI products to enterprise clients, including an AI LINE cha
 <tr>
 <td width="50%" valign="top">
 
-**AI-Powered IT Ticketing Portal**<br/>
-An AI agent auto-resolves routine IT requests (access, mail groups, email accounts) with guardrails and escalates complex cases, letting IT absorb new brands with zero added headcount.
+**AI-Assisted IT Request Portal**<br/>
+Employees describe what they need in plain text. A Claude agent with read-only lookups drafts the exact access change, IT approves in one click, and a worker applies it through Microsoft Graph.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![AI Agent](https://img.shields.io/badge/AI%20Agent-8A63FF?style=flat)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
+![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=flat)
+
+[![Case Study](https://img.shields.io/badge/Case%20Study-181717?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/tyntrin/tyntrin/blob/main/case-studies/ai-it-request-portal.md)
 
 </td>
 <td width="50%" valign="top">
 
-**Retail Inventory & Purchase Request Apps**<br/>
-Apps for store staff integrated with Dynamics 365, live across 20 stores, reducing ERP license costs.
+**New-Hire Access Automation**<br/>
+HR submits one request; on IT approval the system creates the Entra ID account, then assigns license, mail groups, shared drives and system access as retryable tasks.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0B53CE?style=flat)
+![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0078D4?style=flat)
+
+[![Case Study](https://img.shields.io/badge/Case%20Study-181717?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/tyntrin/tyntrin/blob/main/case-studies/access-request.md)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**IT Request Automation**<br/>
-Automated IT request forms end-to-end, reducing IT's role from manual processing to one-click approval.
+**Store Inventory App**<br/>
+Stock count, receiving, transfers, wastage and ordering for store staff, posted to Business Central in batches with duplicate-safe, reconcilable writes. Live across 20 stores.
 
-![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-009688?style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0B53CE?style=flat)
+
+[![Case Study](https://img.shields.io/badge/Case%20Study-181717?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/tyntrin/tyntrin/blob/main/case-studies/store-inventory.md)
 
 </td>
 <td width="50%" valign="top">
 
+**Purchase Requisition Portal**<br/>
+Vendor-first requests verified against live ERP prices, routed through department approval chains, then turned into one purchase order per vendor in Business Central.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0B53CE?style=flat)
+
+[![Case Study](https://img.shields.io/badge/Case%20Study-181717?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/tyntrin/tyntrin/blob/main/case-studies/purchase-request.md)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **Legacy Portal Rebuild**<br/>
-Rebuilt a legacy .NET web portal (Inventory, Purchasing) from scratch with redesigned workflows and UI.
+Rebuilt legacy .NET web portals from scratch in Next.js with redesigned workflows and UI.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
