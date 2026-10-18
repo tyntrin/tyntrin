@@ -114,18 +114,6 @@ Vendor-first requests verified against live ERP prices, routed through departmen
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-**Legacy Portal Rebuild**<br/>
-Rebuilt legacy .NET web portals from scratch in Next.js with redesigned workflows and UI.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-</td>
-</tr>
 </table>
 
 <sub>Work projects are proprietary, so their source code isn't public.</sub>
